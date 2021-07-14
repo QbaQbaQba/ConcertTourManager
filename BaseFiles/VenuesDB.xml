@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Venues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Venue Id="1">
+    <Name>Garage Pub</Name>
+    <Type>Pub</Type>
+    <Owner>Lechu</Owner>
+    <Address StreetAddres="Domowa" City="Krakow" ZipCode="23-456" Country="Polska" />
+    <Email>asd@wp.pl</Email>
+    <Phone>654765876</Phone>
+    <Capacity>100</Capacity>
+  </Venue>
+  <Venue Id="2">
+    <Name>Motopub</Name>
+    <Type>Pub</Type>
+    <Owner>Lechu</Owner>
+    <Address StreetAddres="Domowa" City="Krakow" ZipCode="23-456" Country="Polska" />
+    <Email>asd@wp.pl</Email>
+    <Phone>654765876</Phone>
+    <Capacity>100</Capacity>
+  </Venue>
+  <Venue Id="3">
+    <Name>Hydrozagadka</Name>
+    <Type>Pub</Type>
+    <Owner>Lechu</Owner>
+    <Address StreetAddres="Domowa" City="Warszawa" ZipCode="23-456" Country="Polska" />
+    <Email>asd@wp.pl</Email>
+    <Phone>654765876</Phone>
+    <Capacity>100</Capacity>
+  </Venue>
+  <Venue Id="4">
+    <Name>Wiatrakowa Pub</Name>
+    <Type>Pub</Type>
+    <Owner>Lechu</Owner>
+    <Address StreetAddres="Domowa" City="Bydgoszcz" ZipCode="23-456" Country="Polska" />
+    <Email>asd@wp.pl</Email>
+    <Phone>654765876</Phone>
+    <Capacity>100</Capacity>
+  </Venue>
+  <Venue Id="5">
+    <Name>Dwa koła</Name>
+    <Type>Pub</Type>
+    <Owner>Lechu</Owner>
+    <Address StreetAddres="Domowa" City="Warszawa" ZipCode="23-456" Country="Polska" />
+    <Email>asd@wp.pl</Email>
+    <Phone>654765876</Phone>
+    <Capacity>100</Capacity>
+  </Venue>
+  <Venue Id="6">
+    <Name>Iowa</Name>
+    <Type>Pub</Type>
+    <Owner>Lechu</Owner>
+    <Address StreetAddres="Domowa" City="Iława" ZipCode="23-456" Country="Polska" />
+    <Email>asd@wp.pl</Email>
+    <Phone>654765876</Phone>
+    <Capacity>100</Capacity>
+  </Venue>
+  <Venue Id="7">
+    <Name>Estrada</Name>
+    <Type>Pub</Type>
+    <Owner>Lechu</Owner>
+    <Address StreetAddres="Domowa" City="Bydgoszcz" ZipCode="23-456" Country="Polska" />
+    <Email>asd@wp.pl</Email>
+    <Phone>654765876</Phone>
+    <Capacity>100</Capacity>
+  </Venue>
+  <Venue Id="8">
+    <Name>Piwnica</Name>
+    <Type>Pub</Type>
+    <Owner>Lechu</Owner>
+    <Address StreetAddres="Domowa" City="Bydgoszcz" ZipCode="23-456" Country="Polska" />
+    <Email>asd@wp.pl</Email>
+    <Phone>654765876</Phone>
+    <Capacity>100</Capacity>
+  </Venue>
+</Venues>

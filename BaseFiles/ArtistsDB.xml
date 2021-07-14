@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artists xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Artist Id="1">
+    <Name>Frontside</Name>
+  </Artist>
+  <Artist Id="2">
+    <Name>Over The Under</Name>
+  </Artist>
+  <Artist Id="3">
+    <Name>Themepest</Name>
+  </Artist>
+  <Artist Id="4">
+    <Name>Luxtorpeda</Name>
+  </Artist>
+  <Artist Id="5">
+    <Name>Fu Manchu</Name>
+  </Artist>
+  <Artist Id="6">
+    <Name>Red Scalp</Name>
+  </Artist>
+  <Artist Id="7">
+    <Name>Rottin' Green</Name>
+  </Artist>
+  <Artist Id="8">
+    <Name>Cerber</Name>
+  </Artist>
+  <Artist Id="9">
+    <Name>Iron Maiden</Name>
+  </Artist>
+  <Artist Id="11">
+    <Name>Illusion</Name>
+  </Artist>
+  <Artist Id="12">
+    <Name>Sasquatch</Name>
+  </Artist>
+  <Artist Id="13">
+    <Name>BlackStar</Name>
+  </Artist>
+  <Artist Id="14">
+    <Name>Feto In Fetus</Name>
+  </Artist>
+  <Artist Id="15">
+    <Name>In The Van</Name>
+  </Artist>
+</Artists>
